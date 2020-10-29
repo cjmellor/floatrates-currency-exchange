@@ -1,5 +1,3 @@
-# Coding Test for 'Made By Sauce'
-
 ## How to use
 
 Clone this repository and run
@@ -9,8 +7,6 @@ composer install
 yarn install
 yarn run dev
 ```
-
-*Use `npm` if you must* 🙄
 
 Access the working example at `/currency/exchange`
 
